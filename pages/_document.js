@@ -23,6 +23,7 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
           {/* Output the styles in the head  */}
           {this.props.styleTags}
         </Head>

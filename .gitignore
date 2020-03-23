@@ -1,3 +1,6 @@
+# Don't commit personal developments logs
+dev_logs
+
 # Logs
 logs
 *.log
